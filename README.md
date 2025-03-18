@@ -54,44 +54,6 @@ This project is designed as a **full-stack web application** to demonstrate prof
 ✅ **AI-Powered Recommendations** (Optional future feature)  
 ✅ **CI/CD Pipeline for Seamless Deployment**
 
-## 🛠️ Setup & Installation
-
-### 1️⃣ **Clone the Repository**
-
-```bash
-git clone https://github.com/your-username/project-name.git
-cd project-name
-```
-
-### 2️⃣ **Install Dependencies**
-
-```bash
-npm install
-```
-
-### 3️⃣ **Set Up Environment Variables**
-
-Create a `.env` file and configure the required variables:
-
-```env
-DATABASE_URL="your_postgresql_connection_string"
-NEXTAUTH_SECRET="your_secret_key"
-NEXTAUTH_URL="http://localhost:3000"
-```
-
-### 4️⃣ **Run Development Server**
-
-```bash
-npm run dev
-```
-
-The application will be available at `http://localhost:3000`.
-
-### 5️⃣ **Deploy to Vercel**
-
-```bash
-vercel
-```
 
 ## 📜 Contribution Guidelines
 
